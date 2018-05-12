@@ -1,0 +1,30 @@
+_repo: The-Value-of-Money_34823
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anderson, Benjamin M. (Benjamin McAlester)
+    aliases:
+    - Anderson, B. M. (Benjamin McAlester)
+    - Anderson, Benjamin McAlester
+    birthdate: 1886
+    deathdate: 1949
+    gutenberg_agent_id: '37258'
+    url: http://www.gutenberg.org/2009/agents/37258
+description: ''
+gutenberg_issued: '2011-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34823'
+  lccn: '17014066'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HG'
+- !lcsh 'Money'
+title: The Value of Money
+url: http://www.gutenberg.org/ebooks/34823
